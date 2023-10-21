@@ -1,0 +1,97 @@
+        
+        
+        .subscribe-button {
+            background-color: rgb(201, 0, 0);
+            color: white;
+            border: none;
+            height: 36px;
+            width: 105px;
+            border-radius: 2px;
+            cursor: pointer;
+            margin-right: 8px;
+            font-weight: bold;
+            transition: opacity 0.1=s;
+    
+        }
+        .subscribe-button:hover {
+            opacity: 0.8;
+        }
+        .subscribe-button:active {
+            opacity: 0.4;
+        }
+        .join-button {
+            background-color: white;
+            height: 36px;
+            width: 60;
+            cursor: pointer;
+            border: 2px;
+            color: rgb(86, 173, 255);
+            border-color: rgb(86, 173, 255);
+            border-style: solid;
+            margin-right: 8px;
+            font-weight: bold;
+        }
+        .tweet-button {
+            background-color: rgb(2, 158, 255);
+            color: white;
+            border: none;
+            border-radius: 18px;
+            font-weight: bold;
+            font-size: 15px;
+            cursor: pointer;
+            padding-left: 30px;
+            padding-right: 30px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            transition: box-shadow 0.15;
+        }
+        .tweet-button:hover {
+            box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+            background-color: white;
+            opacity: 0.8;
+        }
+        .tweet-button:active{
+            opacity: 0.4;
+        }
+        .uber{
+            background-color: black;
+            color: white;
+            border: none;
+            height: 36px;
+            width: 100px;
+            border-radius: 2px;
+            margin-right: 8px;
+        }
+        .amazon {
+            background-color: rgb(255, 208, 0);
+            color: rgb(0, 0, 0);
+            border: none;
+            height: 36px;
+            width: 180px;
+            border-radius: 18px;
+            margin-right: 8px;  
+        }
+        .bootstrap1 {
+            background-color: rgb(121, 82, 179);
+            color: white;
+            border: none;
+            height: 36px;
+            width: 100px;
+            border-radius: 2px;
+            font-weight: bold;
+            margin-right: 8px;
+    
+        }
+        .bootstrap2 {
+            background-color: rgb(255, 255, 255);
+            color: rgb(108, 117, 125);
+            border: none;
+            height: 36px;
+            width: 70px;
+            border-radius: 18px;
+            font-weight: bold;
+            font-size: 15px;
+            cursor: pointer;
+            
+    
+        }
